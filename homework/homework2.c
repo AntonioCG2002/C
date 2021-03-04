@@ -1,10 +1,10 @@
-// CREATED BY ANTONIO CORTÉS
+// CREATED BY ANTONIO CORTÃ‰S
 #include <stdio.h>
 #define K  10   //How many numbers we want to put (CHANGE)
 #define MAX 512 //Choose a number of bits that we want to put
 /* 
 How many bits we want
-01 bit = 1		02 bits = 2		03 bits = 4		04 bits = 8 	05 bits = 16
+01 bit = 1	02 bits = 2		03 bits = 4		04 bits = 8 	05 bits = 16
 06 bits = 32	07 bits = 64	08 bits = 128	09 bits = 256 	10 bits = 512
 11 bits = 1024	12 bits = 2048	13 bits =4096	14 bits = 8192	15 bits = 16384
 */
