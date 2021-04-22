@@ -1,3 +1,9 @@
+/*COPY AND PASTE THIS CODE IN ONLINE GDB IN 3 FILES 
+AND RENAME EACH FILE AS
+THE FIRST ONE: main.c 
+THE SECOND: function.c
+The THIRD: function.h*/
+
 #include <stdio.h>   
 #include <stdlib.h>  
 #include <ctype.h>   
