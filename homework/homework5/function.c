@@ -3,7 +3,7 @@
 #include <ctype.h>   
 #include <assert.h>  
 #include "function.h"
-
+ 
 int minesnearby(int fila, int columna, char table[ROWS][COLUMNS]) {
   int conteo = 0, filaInicio, filaFin, columnaInicio, columnaFin;
   if (fila <= 0) {
