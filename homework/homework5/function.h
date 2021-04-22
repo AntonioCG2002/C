@@ -1,3 +1,9 @@
+/*COPY AND PASTE THIS CODE IN ONLINE GDB IN 3 FILES 
+AND RENAME EACH FILE AS
+THE FIRST ONE: main.c 
+THE SECOND: function.c
+The THIRD: function.h*/
+
 #define COLUMNS 10
 #define ROWS 10
 #define FIND_MINE 1
