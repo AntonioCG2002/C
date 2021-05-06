@@ -34,6 +34,7 @@ int main(){
         case 1: //entrada
             flujo = fopen("log.txt", "a");
             printf("Se ha registrado tu entrada pin:%d hoy:%s %s\n", pin, output, buffer);
+            printf("Entrada marcada a las %d:%d:%2d",tlocal->tm_hour-5,tlocal->tm_min,tlocal->tm_sec); //Mostrar Hora
             fprintf(flujo, "e%d %lu %s %s\n", pin, (unsigned long)time(NULL), output, buffer);
             printf("Éxito en el trabajo");
             fflush(flujo);
@@ -54,6 +55,7 @@ int main(){
             }
             flujo = fopen("log.txt", "a");
             printf("Se ha registrado tu salida pin:%d hoy:%s %s\n", pin, output, buffer);
+            printf("Salida marcada a las %d:%d:%2d",tlocal->tm_hour-5,tlocal->tm_min,tlocal->tm_sec); //Mostrar Hora
             fprintf(flujo, "s%d %lu %s %s %d\n", pin, (unsigned long)time(NULL), output, buffer, verTiempoTrabajado(pin));
             printf("\n Has trabajado por %d segundos \n Nos vemos pronto\n", verTiempoTrabajado(pin));
             fflush(flujo);
