@@ -36,7 +36,7 @@ int main(){
             printf("Se ha registrado tu entrada pin:%d hoy:%s %s\n", pin, output, buffer);
             printf("Entrada marcada a las %d:%d:%2d",tlocal->tm_hour-5,tlocal->tm_min,tlocal->tm_sec); //Mostrar Hora
             fprintf(flujo, "e%d %lu %s %s\n", pin, (unsigned long)time(NULL), output, buffer);
-            printf("Éxito en el trabajo");
+            printf("\nÉxito en el trabajo");
             fflush(flujo);
             fclose(flujo);
             break;
