@@ -26,6 +26,8 @@ With this code you can do the on-grid calculus and know some information about u
 ## References
 Solar Energy International. (2004). Photovoltaics: Design and Installation Manual (1.a ed.). New Society Publishers - New Society Publishers.
 
+Kernighan, R. W. D. B. M. (2021). The C Programming Language by Brian W. Kernighan, Dennis M. Ritchie (1988) Paperback. Prentice.
+
 ## Contact
 You can talk to me:
 
