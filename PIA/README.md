@@ -14,6 +14,7 @@ Video:   https://youtu.be/o97Zzw0K-oE
 * [Cases](#Cases)
 * [References](#References)
 * [Contact](#Contact)
+* [Logo](#Logo)
 
 ## What is the importance of this project?
 We need to know the importance of use the solar energy in Mexico, the cost of installing and generating your own energy here, has declined significantly, we have reached a point where it is cheaper to generate electricity by photovoltaic technology means rather than to buy it from CFE. In Mexico and around the world the price of electricity has skyrocketed and will continue to rise in parallel with oil prices. With a solar panel system you will “freeze” the price of the electricity you consume over the lifetime of the PV solar system (40 years average).
@@ -68,3 +69,12 @@ You can talk to me:
 |  Discord |  Facebook  |
 | ------------ | ------------ |
 | Toño Cortés #6142  | ROBOCORT  |
+
+## Logo
+<pre>
+          ____   ___  ____   ___   ____ ___  ____ _____ 
+         |  _ \ / _ \| __ ) / _ \ / ___/ _ \|  _ \_   _|
+         | |_) | | | |  _ \| | | | |  | | | | |_) || |  
+         |  _ <| |_| | |_) | |_| | |__| |_| |  _ < | |  
+         |_| \_\\___/|____/ \___/ \____\___/|_| \_\|_|  
+</pre>
