@@ -12,7 +12,6 @@ Video:   https://youtu.be/o97Zzw0K-oE
 * [Benefits of the project](#Benefits-of-the-project)
 * [How it works the code?](#How-it-works-the-code)
 * [Cases](#Cases)
-** [Case:1](#Case:1)
 * [References](#References)
 * [Contact](#Contact)
 
