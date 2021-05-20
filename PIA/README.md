@@ -11,6 +11,8 @@ Video:   https://youtu.be/o97Zzw0K-oE
 * [What is the importance of this project?](#What-is-the-importance-of-this-project)
 * [Benefits of the project](#Benefits-of-the-project)
 * [How it works the code?](#How-it-works-the-code)
+* [Cases](#Cases)
+** [Case:1](#Case:1)
 * [References](#References)
 * [Contact](#Contact)
 
@@ -22,6 +24,39 @@ Get a faster proposal for the equipment that is required to be installed in a pr
 
 ## How it works the code?
 With this code you can do the on-grid calculus and know some information about use solar energy, solar panels, and what is on-grid connection based on solar energy.
+
+## Cases
+There some different cases in the program:
+
+###  Case 1: Main Menu 
+>                    Menu
+>      1. Calculus
+>      2. Info
+>      3. Exit
+
+###  Case 2: Info Menu
+>                    Info Menu
+>      1 Importance to use solar energy
+>      2 Advantages to use solar panels
+>      3 What is interconect to the network (on-grid)
+>      4 Return to the Main menu
+  
+###  Case 3: Type of panel
+>       Which type of panel do you want:
+>        1. 300 W  
+>        2. 335 W   
+>        3. 350 W
+
+###  Case 4: Values of °C
+>       Do you know the max and min value of °C
+>       1. Yes  
+>       2. No 
+  If you know the values of °C you can save the values and if you don't know, the program will use a predetermined values.
+
+###  Case 5: Type of connection
+>       Do you want to use in serie or paralel
+>       Serie = 1       
+>       Paralel = 2
 
 ## References
 Solar Energy International. (2004). Photovoltaics: Design and Installation Manual (1.a ed.). New Society Publishers - New Society Publishers.
